@@ -109,8 +109,8 @@ install:
   - gcc -v
   - echo $CC
   - echo $CXX
-  - pub version
-  - dart --version
+  #- pub version
+  #- dart --version
 
 script:
   # fail fast
